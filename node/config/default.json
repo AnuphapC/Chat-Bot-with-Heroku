@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "dc99f96c365d34bc39db1cc9af87a7d3",
+    "pageAccessToken": "EAAPFhLwZBS3IBAPCapZC4XNXQ1oWmgeiKS0xBk4AQMRUf6D5JTsFby58ypZCgcU1CaFAi5iFhI44uTn46k4ZCS1Ut4owlU9aN6bxNpJd16EA3R0CFV4LKSWpGEKeh0X02blaYRZA2RlpuCQHDVrlZBRiZAZC9JdNGjgMPv8W4isuKgW0WHaEATZBL",
+    "validationToken": "pekpeping29",
+    "serverURL": "https://localhost/"
 }
